@@ -1,1 +1,3 @@
-# ws-19-20-prog2-aufgaben
+# Projektvorlage für die Belegaufgaben
+
+Achtung! Das sind nur Projektvorlagen und keine Musterlösungen
